@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MovingZerosToTheEndKata/FileContentIndex
+/.vs/MovingZerosToTheEndKata/v17
+/MovingZerosToTheEndKata/bin/Debug/net8.0
+/MovingZerosToTheEndKata/obj
+/MovingZerosToTheEndKata.Specs/bin/Debug/net8.0
+/MovingZerosToTheEndKata.Specs/obj/Debug/net8.0
+/MovingZerosToTheEndKata.Specs/obj
